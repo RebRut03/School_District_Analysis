@@ -22,7 +22,7 @@ The school board has notified Maria and her supervisor that the students_complet
 - Using bulleted lists and images of DataFrames as support, address the following questions. There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 
 -	District Summary:
-  - Although we were asked to remove the ninth grade scores for Thomas High School, the District Summary numbers do not appear to be different.	
+  - Although Maria asked that we replace the ninth grade scores with "NaN" for Thomas High School, the District Summary numbers do not appear to be much different.	
   - Original District Summary:
   
     ![District_Summary_DataFrame_Original](Resources/District_Summary_DataFrame_Original.PNG)
@@ -31,7 +31,17 @@ The school board has notified Maria and her supervisor that the students_complet
     
     ![District_Summary_DataFrame_Updated](Resources/District_Summary_DataFrame_Updated.PNG)
     
-- How is the school summary affected? not much has changed
+- School Summary:
+  - Original School Summary:
+  
+    ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG) 
+    
+  - Updated District Summary:
+
+   ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG) 
+   
+   ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG)
+    
 -	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
