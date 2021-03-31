@@ -47,11 +47,10 @@ The school board has notified Maria and her supervisor that the students_complet
     
 -	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Top Schools Original
+    ![Top_Five_Original](Resources/Top_Five_Original.PNG)
   - Top Schools Updated
+    ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
   
-  - Bottom Schools Original 
-  - Bottom Schools Updated
-  -  	
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
   - Scores by school spending
