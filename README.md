@@ -37,8 +37,11 @@ The school board has notified Maria and her supervisor that the students_complet
     ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG) 
     
   - Updated District Summary:
+   - Thomas High School Including 9th Grade "NaN":
 
    ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG) 
+   
+   - Thomas High School Including Only 10th to 12th Grades:
    
    ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG)
     
