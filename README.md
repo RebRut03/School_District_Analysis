@@ -21,7 +21,7 @@ The school board has notified Maria and her supervisor that the students_complet
 ## Results: 
 - Using bulleted lists and images of DataFrames as support, address the following questions. There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 
--	How is the district summary affected?
+-	How is the district summary affected? it's really not affected
 - How is the school summary affected?
 -	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
@@ -32,3 +32,8 @@ The school board has notified Maria and her supervisor that the students_complet
 
 ## Summary: 
 - Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
+- 1)
+- 2)
+- 3)
+- 4)
+-
