@@ -16,7 +16,7 @@ According to Maria, the school board notified her and her supervisor of the foll
 
 > "...The students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered..."
 
-Specifially for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis, replacing the math and reading scores for Thomas High School ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
+Specifially for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis outlined above, replacing the math and reading scores for Thomas High School ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
 
 ## Results: 
 - Using bulleted lists and images of DataFrames as support, address the following questions. There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
