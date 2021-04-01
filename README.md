@@ -18,7 +18,7 @@ According to Maria, the school board notified her and her supervisor of the foll
 
 Specifially for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis outlined above, replacing the math and reading scores for Thomas High School ("THS") ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
 
-I used the loc method to isolate the THS ninth grade reading and math scores and set them equal to np.Nan as follows:
+The loc method was utilized to isolate the THS ninth grade reading and math scores and set them equal to np.Nan as follows:
 
 `student_data_df.loc[(student_data_df["school_name"]=="Thomas High School") & (student_data_df["grade"]=="9th") , "reading_score"] = np.NaN
 student_data_df`
@@ -26,7 +26,8 @@ student_data_df`
 ## **School District Analysis - Analysis and Results:** 
 
 ### **District Summary:**
-Although Maria asked that we replace the ninth grade scores with "NaN" for Thomas High School, this doesn't appear to have made much of an impact on the final analysis. See the following screenshots of the original versus the updated District Summary results.  
+Although Maria asked that the THS ninth grade scores be replaced with NaNs, this change doesn't appear to have made much of an impact on the final analysis. See the following screenshots of the original versus the updated District Summary results.  
+
 - Original District Summary:
   
   ![District_Summary_DataFrame_Original](Resources/District_Summary_DataFrame_Original.PNG)
@@ -36,20 +37,23 @@ Although Maria asked that we replace the ninth grade scores with "NaN" for Thoma
   ![District_Summary_DataFrame_Updated](Resources/District_Summary_DataFrame_Updated.PNG)
     
 ### **School Summary:**
-Although Maria asked that we replace the ninth grade scores with "NaN" for Thomas High School, this doesn't appear to have made much of an impact on the final analysis. See the following screenshots of the original versus the updated School Summary results.
+When comparing the THS original School Summary with the updated School Summary that includes only tenth to twelfth grade scores, this change doesn't appear to have made much of an impact on the final analysis. I also added a screen shot of the isolated 9th grade school summary here as well.
   
-  - Original School Summary:
+- Original School Summary:
   
-    ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG) 
+  ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG) 
     
-  - Updated District Summary:
+- Updated School Summary:
+
+   - Thomas High School Including Only 10th to 12th Grades:
+   
+   ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG)
+   
    - Thomas High School Including 9th Grade "NaN":
 
    ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG) 
    
-   - Thomas High School Including Only 10th to 12th Grades:
    
-   ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG)
     
 -	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Top Schools Original
