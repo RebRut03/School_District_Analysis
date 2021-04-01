@@ -51,10 +51,17 @@ The school board has notified Maria and her supervisor that the students_complet
   - Top Schools Updated
     ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
   
-- How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
+- How does replacing the ninth-grade scores affect the following Math and reading scores by grade:
   - Scores by school spending
+    - THS Spending Original
+    - THS Spending Updated
+    - Overall School Size Formatted Same
+    - Overal Spending Summary Original
+    - Overall Spending Summary Updated
   - Scores by school size
+    - Overall School Size Formatted Same
+    - Overall School Size summary Not formated original
+    - Overall School Size summary Not Formatted Updated 
   - Scores by school type
 
 ## Summary: 
