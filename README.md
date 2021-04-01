@@ -37,23 +37,15 @@ Although Maria asked that the THS ninth grade scores be replaced with NaNs, this
   ![District_Summary_DataFrame_Updated](Resources/District_Summary_DataFrame_Updated.PNG)
     
 ### **School Summary:**
-When comparing the THS original School Summary with the updated School Summary that includes only tenth to twelfth grade scores, this change doesn't appear to have made much of an impact on the final analysis. I also added a screen shot of the isolated 9th grade school summary here as well.
+When comparing the THS original School Summary with the updated School Summary that includes only tenth to twelfth grade scores.  As you can see the numbers changed slightly, but this change doesn't appear to have made a significant impact on the final analysis.
   
 - Original School Summary:
   
   ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG) 
     
-- Updated School Summary:
-
-   - Thomas High School Including Only 10th to 12th Grades:
+- Updated School Summary - Includes THS 10th to 12th Grades only:
    
-   ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG)
-   
-   - Thomas High School Including 9th Grade "NaN":
-
-   ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG) 
-   
-   
+  ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG) 
     
 -	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Top Schools Original
