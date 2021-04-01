@@ -37,7 +37,7 @@ Although Maria asked that the THS ninth grade scores be replaced with NaNs, this
   ![District_Summary_DataFrame_Updated](Resources/District_Summary_DataFrame_Updated.PNG)
     
 ### **School Summary:**
-When comparing the THS original School Summary with the updated School Summary that includes only tenth to twelfth grade scores.  As you can see the numbers changed slightly, but this change doesn't appear to have made a significant impact on the final analysis.
+When comparing the THS original School Summary with the updated School Summary that includes only tenth to twelfth grade scores, the numbers changed slightly, but this change doesn't appear to have made a significant impact on the final analysis.
   
 - Original School Summary:
   
@@ -47,11 +47,16 @@ When comparing the THS original School Summary with the updated School Summary t
    
   ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG) 
     
--	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  - Top Schools Original
-    ![Top_Five_Original](Resources/Top_Five_Original.PNG)
-  - Top Schools Updated
-    ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
+### **Affect on THS Performance Relative to Other Schools:**
+The following screen shots show the top five performing schools in the district.  When comparing the original output versus the updated output, THS remains in the second position with regard to their performance relative to other schools.
+
+- Top Schools Original:
+
+  ![Top_Five_Original](Resources/Top_Five_Original.PNG)
+
+- Top Schools Updated
+    
+  ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
   
 - How does replacing the ninth-grade scores affect the following Math and reading scores by grade:
   - Scores by school spending
