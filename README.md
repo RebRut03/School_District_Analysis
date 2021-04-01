@@ -1,6 +1,6 @@
-# School District Analysis
+# **School District Analysis**
 
-## Overview of the school district analysis: 
+##  **School District Analysis - Overview:** 
 The purpose of this project was to assist Maria and her supervisor with school district analysis.  The original list of deliverables for the analysis of the school district are as follows: 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
@@ -16,22 +16,28 @@ According to Maria, the school board notified her and her supervisor of the foll
 
 > "...The students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered..."
 
-Specifially for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis outlined above, replacing the math and reading scores for Thomas High School ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
+Specifially for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis outlined above, replacing the math and reading scores for Thomas High School ("THS") ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
 
-## Results: 
-- Using bulleted lists and images of DataFrames as support, address the following questions. There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
+I used the loc method to isolate the THS ninth grade reading and math scores and set them equal to np.Nan as follows:
 
--	District Summary:
-  - Although Maria asked that we replace the ninth grade scores with "NaN" for Thomas High School, the District Summary numbers do not appear to be much different.	
-  - Original District Summary:
+`student_data_df.loc[(student_data_df["school_name"]=="Thomas High School") & (student_data_df["grade"]=="9th") , "reading_score"] = np.NaN
+student_data_df`
+
+## **School District Analysis - Analysis and Results:** 
+
+### **District Summary:**
+Although Maria asked that we replace the ninth grade scores with "NaN" for Thomas High School, this doesn't appear to have made much of an impact on the final analysis. See the following screenshots of the original versus the updated District Summary results.  
+- Original District Summary:
   
-    ![District_Summary_DataFrame_Original](Resources/District_Summary_DataFrame_Original.PNG)
+  ![District_Summary_DataFrame_Original](Resources/District_Summary_DataFrame_Original.PNG)
     
-  - Updated District Summary:  
+- Updated District Summary:  
     
-    ![District_Summary_DataFrame_Updated](Resources/District_Summary_DataFrame_Updated.PNG)
+  ![District_Summary_DataFrame_Updated](Resources/District_Summary_DataFrame_Updated.PNG)
     
-- School Summary:
+### **School Summary:**
+Although Maria asked that we replace the ninth grade scores with "NaN" for Thomas High School, this doesn't appear to have made much of an impact on the final analysis. See the following screenshots of the original versus the updated School Summary results.
+  
   - Original School Summary:
   
     ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG) 
@@ -80,7 +86,7 @@ Specifially for this portion of the project, Maria would like the deliverables t
     - Overall School Type summary Not Formatted Updated 
       ![Overall_School_Type_Summary_NotFormatted_Updated](Resources/Overall_School_Type_Summary_NotFormatted_Updated.PNG) 
 
-## Summary: 
+## School District Analysis - Summary: 
 - Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
 - 1)
 - 2)
