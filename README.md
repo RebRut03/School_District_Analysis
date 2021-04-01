@@ -11,6 +11,7 @@ The purpose of this project was to assist Maria and her supervisor with school d
   - School performance based on the budget per student
   - School performance based on the school size 
   - School performance based on the type of school
+
 According to Maria, the school board notified her and her supervisor of the following:
 
 > "...The students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered..."
