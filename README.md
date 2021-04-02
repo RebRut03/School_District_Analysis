@@ -89,7 +89,10 @@ The following screen shots show the top five performing schools in the district.
 
 ## School District Analysis - Summary: 
 - Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
-- 1)
+- 1)  When you include the THS 9th grade, the percentage passed drops drastically.  This would make sense because your counting the same number of students, but not the scores.?? See the screenshots:  
+- Avg Reading - 69.7, Avg Math -66.9, Over Passing - 65.1
+- Avg Reading - 97.3, Avg Math -93.3, Overall Passing - 90.9
+  
 - 2)
 - 3)
 - 4)
