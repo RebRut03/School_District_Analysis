@@ -64,18 +64,45 @@ The following screen shots show the top five performing schools in the district.
     
   ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
   
-- How does replacing the ninth-grade scores affect the following Math and reading scores by grade:
-  - Scores by school spending
-    - THS Spending Original
-      ![THS_School_Spending_Range_Original](Resources/THS_School_Spending_Range_Original.PNG)
-    - THS Spending Updated
-      ![THS_School_Spending_Range_Updated](Resources/THS_School_Spending_Range_Updated.PNG)
-    - Overall School Spending Formatted Same
-      ![Overall_School_Spending_Summary_Formatted_Same](Resources/Overall_School_Spending_Summary_Formatted_Same.PNG)
-    - Overal Spending Summary Original
-      ![Overall_School_Spending_Summary_NoFormatting](Resources/Overall_School_Spending_Summary_NoFormatting_Original.PNG)
-    - Overall Spending Summary Updated
-      ![Overall_School_Spending_Summary_NoFormatting_Updated](Resources/Overall_School_Spending_Summary_NoFormatting_Updated.PNG)
+### **Affect on Math and Reading Scores by Grade:**
+
+- THS Original Math:
+
+  ![Math_By_Grade_Original](Resources/Math_By_Grade_Original.PNG)
+  
+- THS Updated Math:
+
+  ![Math_By_Grade_Updated](Resources/Math_By_Grade_Updated.PNG)
+  
+- THS Original Reading:
+
+  ![Reading_By_Grade_Original](Resources/Reading_By_Grade_Original.PNG.PNG)
+  
+- THS Updated Reading:
+   
+  ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
+  
+### **Affect on Scores by School Spending:**
+- THS Spending Original
+
+  ![THS_School_Spending_Range_Original](Resources/THS_School_Spending_Range_Original.PNG)
+      
+- THS Spending Updated
+      
+  ![THS_School_Spending_Range_Updated](Resources/THS_School_Spending_Range_Updated.PNG)
+  
+- Overall School Spending Formatted Same
+  
+  ![Overall_School_Spending_Summary_Formatted_Same](Resources/Overall_School_Spending_Summary_Formatted_Same.PNG)
+  
+- Overal Spending Summary Original
+      
+  ![Overall_School_Spending_Summary_NoFormatting](Resources/Overall_School_Spending_Summary_NoFormatting_Original.PNG)
+  
+- Overall Spending Summary Updated
+      
+  ![Overall_School_Spending_Summary_NoFormatting_Updated](Resources/Overall_School_Spending_Summary_NoFormatting_Updated.PNG)
+      
   - Scores by school size
     - Overall School Size Formatted Same
       ![Overall_School_Size_Summary_Formatted_Same](Resources/Overall_School_Size_Summary_Formatted_Same.PNG)
