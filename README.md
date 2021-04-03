@@ -100,17 +100,17 @@ THS falls into the $630 to $644 spending range per students.  The overall passin
   
      
 ### **Affect on Scores by School Size:**
-THS falls into the medium sized category range (1,000 to 2,000 students) with 1,635 total students.
+THS falls into the medium sized category range (1,000 to 2,000 students) with 1,635 total students.  Before formatting, you can see the percentages slightly dropped, but per the Overall School Size Formatted Summary below, you can see that dropping the 9th grade scores weren't significant enough to make an impact on the final numbers so the summary remained unchanged.
 
-- Overall School Size Formatted Same
+- Overall School Size Formatted Summary:
       
   ![Overall_School_Size_Summary_Formatted_Same](Resources/Overall_School_Size_Summary_Formatted_Same.PNG)
     
-- Overall School Size summary Not formated original
+- Overall School Size Summary Original:
       
  ![Overall_School_Size_Summary_NotFormatted_Original](Resources/Overall_School_Size_Summary_NotFormatted_Original.PNG)
     
-- Overall School Size summary Not Formatted Updated 
+- Overall School Size Summary Updated: 
       
  ![Overall_School_Size_Summary_NotFormatted_Updated](Resources/Overall_School_Size_Summary_NotFormatted_Updated.PNG)
  
