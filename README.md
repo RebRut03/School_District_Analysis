@@ -46,6 +46,12 @@ When comparing the THS original School Summary with the updated School Summary t
 - Updated School Summary - Includes THS 10th to 12th Grades only:
    
   ![THS_School_Summary_Updated_Step14_10to12](Resources/THS_School_Summary_Updated_Step14_10to12.PNG) 
+  
+When running the School Summary with the 9th graders included, you'll see that the reading, math, and overall percentages drop drastically.
+
+- Updated School Summary - Includes THS 9th Grade:
+
+  ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG) 
     
 ### **Affect on THS Performance Relative to Other Schools:**
 The following screen shots show the top five performing schools in the district.  When comparing the original output versus the updated output, THS remains in the second position with regard to their performance relative to other schools.
