@@ -114,15 +114,23 @@ THS falls into the medium sized category range (1,000 to 2,000 students) with 1,
       
  ![Overall_School_Size_Summary_NotFormatted_Updated](Resources/Overall_School_Size_Summary_NotFormatted_Updated.PNG)
  
-  - Scores by school type
-    - Overall School Type Formatted Original
-      ![Overall_School_Type_Summary_Formatted_Original](Resources/Overall_School_Type_Summary_Formatted_Original.PNG)
-    - Overall School Type summary Formatted Updated
-      ![Overall_School_Type_Summary_Formatted_Updated](Resources/Overall_School_Type_Summary_Formatted_Updated.PNG)
-    - Overall School Type summary Not Formatted Original
-      ![Overall_School_Type_Summary_NotFormatted_Original](Resources/Overall_School_Type_Summary_NotFormatted_Original.PNG)
-    - Overall School Type summary Not Formatted Updated 
-      ![Overall_School_Type_Summary_NotFormatted_Updated](Resources/Overall_School_Type_Summary_NotFormatted_Updated.PNG) 
+### **Affect on Scores by School Type:**
+    
+- Overall School Type Formatted Original
+      
+ ![Overall_School_Type_Summary_Formatted_Original](Resources/Overall_School_Type_Summary_Formatted_Original.PNG)
+    
+- Overall School Type summary Formatted Updated
+      
+ ![Overall_School_Type_Summary_Formatted_Updated](Resources/Overall_School_Type_Summary_Formatted_Updated.PNG)
+    
+- Overall School Type summary Not Formatted Original
+      
+ ![Overall_School_Type_Summary_NotFormatted_Original](Resources/Overall_School_Type_Summary_NotFormatted_Original.PNG)
+    
+- Overall School Type summary Not Formatted Updated 
+      
+ ![Overall_School_Type_Summary_NotFormatted_Updated](Resources/Overall_School_Type_Summary_NotFormatted_Updated.PNG) 
 
 ## School District Analysis - Summary: 
 - Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
