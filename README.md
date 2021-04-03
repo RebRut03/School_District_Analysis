@@ -130,15 +130,20 @@ THS appears to be a Charter school.  As you can see, prior to formatting, it app
   ![Overall_School_Type_Summary_NotFormatted_Updated](Resources/Overall_School_Type_Summary_NotFormatted_Updated.PNG) 
 
 ## School District Analysis - Summary: 
-- Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
-- 1)  When you include the THS 9th grade, the percentage passed drops drastically.  This would make sense because your counting the same number of students, but not the scores.?? See the screenshots:  
+There were only 461 THS students in ninth grade which makes up about 1% of the total student count so overall there wasn't a significant change the outputs when the ninth graders were removed.
+
+When the THS 9th grade NaNs were included, the percentage passed drops drastically.  This would make sense because you're counting the same number of students, but not the scores. See the screenshots:  
 
 - Avg Math -66.9, Avg Reading - 69.7, Over Passing - 65.1
-- ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG)
-- Avg Math -93.3, Avg Reading - 97.3, Overall Passing - 90.9
-- ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG)
+  ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG)
   
-- 2)
+- Avg Math -93.3, Avg Reading - 97.3, Overall Passing - 90.9
+  ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG)
+    
+Another significant change made to the code that adjusted the final outputs was that I had to isolate the tenth to tweflth grade THS students.  I used the loc method to make this change, and this allowed us to calculate updated outputs.
+
+`tenth_to_twelfth_count = student_data_df.loc[(student_data_df["grade"] != "9th")
+                                      & (student_data_df["school_name"] == "Thomas High School"), ["Student ID"]].count()`
 - 3)
 - 4)
 -
