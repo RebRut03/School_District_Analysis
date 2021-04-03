@@ -147,7 +147,9 @@ There were only 461 THS students in ninth grade which makes up about 1% of the t
   - `tenth_to_twelfth_count = student_data_df.loc[(student_data_df["grade"] != "9th") & (student_data_df["school_name"] == "Thomas High School"), ["Student ID"]].count()`
 
 - Another significant output change is when you look at the math scores by grade, you can see that the math grades were replaced by the Nans.
+
   ![Math_By_Grade_Updated](Resources/Math_By_Grade_Updated.PNG)
 
 - This also applies to the reading scores by grade; the output is significantly different because the reading scores are replaced by Nans.
+
   ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
