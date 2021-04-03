@@ -16,9 +16,9 @@ According to Maria, the school board notified her and her supervisor of the foll
 
 > "...The students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered..."
 
-Specifially for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis outlined above, replacing the math and reading scores for Thomas High School ("THS") ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
+Specifically for this portion of the project, Maria would like the deliverables to include a repeat of the school district analysis outlined above, replacing the math and reading scores for Thomas High School ("THS") ninth graders with NaNs and a report to describe how these changes affected the overall analysis.
 
-The loc method was utilized to isolate the THS ninth grade reading and math scores and set them equal to np.Nan as follows:
+The loc method was utilized to isolate the THS ninth grade reading and math scores, and they were set to equal to np.Nan as follows:
 
 `student_data_df.loc[(student_data_df["school_name"]=="Thomas High School") & (student_data_df["grade"]=="9th") , "reading_score"] = np.NaN
 student_data_df`
@@ -65,7 +65,7 @@ The following screen shots show the top five performing schools in the district.
   ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
   
 ### **Affect on Math and Reading Scores by Grade:**
-The following screen shots illustrate that the original Math and Reading scores, and the updated Math and Reading scores per grade level.  As you can see the THS 9th graders have been replaced with Nan, and the remaining THS grade levels do not change.
+The following screen shots illustrate the original Math and Reading scores and the updated Math and Reading scores per grade level.  As shown below, the THS ninth graders have been replaced with Nan, and the remaining THS grade levels do not change.
 
 - THS Original Math:
 
@@ -84,7 +84,7 @@ The following screen shots illustrate that the original Math and Reading scores,
   ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
   
 ### **Affect on Scores by School Spending:**
-THS falls into the $630 to $644 spending range per students.  The overall passing percentage dropped slightly when the 9th graders were removed, but it doesn't appear significant enough to change the Overall School Spending Summary once it's been formatted; see screen shots below.  
+THS falls into the $630 to $644 spending range per student.  The overall passing percentage dropped slightly when the 9th graders were removed, but it doesn't appear significant enough to change the Overall School Spending Summary once it's been formatted; see screen shots below.    
 
 - THS Spending Original:
 
@@ -100,7 +100,7 @@ THS falls into the $630 to $644 spending range per students.  The overall passin
   
      
 ### **Affect on Scores by School Size:**
-THS falls into the medium sized category range (1,000 to 2,000 students) with 1,635 total students.  Before formatting, you can see the percentages slightly dropped, but per the Overall School Size Formatted Summary below, you can see that dropping the 9th grade scores weren't significant enough to make an impact on the final numbers so the summary remained unchanged.
+THS falls into the medium sized category range (1,000 to 2,000 students) with 1,635 total students.  Before formatting, you can see the percentages slightly dropped, but per the Overall School Size Formatted Summary below, you can see that dropping the ninth grade scores weren't significant enough to make an impact on the final numbers so the summary remained unchanged.
 
 - Overall School Size Formatted Summary:
       
@@ -132,7 +132,7 @@ THS appears to be a Charter school.  As you can see, prior to formatting, it app
 ## School District Analysis - Summary: 
 There were only 461 THS students in ninth grade which makes up about 1% of the total student count so overall there wasn't a significant change to the outputs when the ninth graders were removed.
 
-- When the THS 9th grade NaNs were included, the percentage passed drops drastically.  This would make sense because you're counting the same number of students, but not the scores. See the screenshots:  
+- When the THS ninth grade NaNs were included, the percentage passed dropped drastically.  This would make sense because you're counting the same number of students, but not the scores. See the screenshots:   
 
   - Average Math: 66.9%, Average Reading: 69.7%, Overall Passing: 65.1%
   
@@ -142,7 +142,7 @@ There were only 461 THS students in ninth grade which makes up about 1% of the t
   
   ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG)
     
-- Another significant change made to the code that adjusted the final outputs was that I had to isolate the tenth to tweflth grade THS students.  I used the loc method to make this change, and this allowed us to calculate updated outputs that were overall, very similar to the original outputs.
+-  Another significant change made to the code was the adjustment of isolating the tenth to twelfth grade THS students using the loc method.  This allowed us to calculate all of the updated outputs that were, overall, very similar to the original outputs.
 
   - `tenth_to_twelfth_count = student_data_df.loc[(student_data_df["grade"] != "9th") & (student_data_df["school_name"] == "Thomas High School"), ["Student ID"]].count()`
 
@@ -150,6 +150,6 @@ There were only 461 THS students in ninth grade which makes up about 1% of the t
 
   ![Math_By_Grade_Updated](Resources/Math_By_Grade_Updated.PNG)
 
-- This also applies to the reading scores by grade; the output is significantly different because the reading scores are replaced by Nans.
+- This significant change also applies to the reading scores by grade; the output is significantly different because the reading scores are replaced by Nans.
 
   ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
