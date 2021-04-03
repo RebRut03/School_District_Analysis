@@ -134,11 +134,11 @@ There were only 461 THS students in ninth grade which makes up about 1% of the t
 
 - When the THS 9th grade NaNs were included, the percentage passed drops drastically.  This would make sense because you're counting the same number of students, but not the scores. See the screenshots:  
 
-  - Avg Math -66.9, Avg Reading - 69.7, Over Passing - 65.1
+  - Average Math: 66.9%, Average Reading: 69.7%, Overall Passing: 65.1%
   
   ![THS_School_Summary_Updated_Step4](Resources/THS_School_Summary_Updated_Step4.PNG)
   
-  - Avg Math -93.3, Avg Reading - 97.3, Overall Passing - 90.9
+  - Average Math: 93.3%, Average Reading: 97.3%, Overall Passing: 90.9%
   
   ![THS_School_Summary_Original](Resources/THS_School_Summary_Original.PNG)
     
