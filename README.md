@@ -108,29 +108,26 @@ THS falls into the medium sized category range (1,000 to 2,000 students) with 1,
     
 - Overall School Size Summary Original:
       
- ![Overall_School_Size_Summary_NotFormatted_Original](Resources/Overall_School_Size_Summary_NotFormatted_Original.PNG)
+  ![Overall_School_Size_Summary_NotFormatted_Original](Resources/Overall_School_Size_Summary_NotFormatted_Original.PNG)
     
 - Overall School Size Summary Updated: 
       
- ![Overall_School_Size_Summary_NotFormatted_Updated](Resources/Overall_School_Size_Summary_NotFormatted_Updated.PNG)
+  ![Overall_School_Size_Summary_NotFormatted_Updated](Resources/Overall_School_Size_Summary_NotFormatted_Updated.PNG)
  
 ### **Affect on Scores by School Type:**
+THS appears to be a Charter school.  As you can see, prior to formatting, it appears that the passing percentages dropped slightly, but post formatting, the Overall School Type Formatted Summary appears to be unchanged when utilizing THS tenth to twelfth grade scores.
     
-- Overall School Type Formatted Original
+- Overall School Type Formatted Summary: 
       
- ![Overall_School_Type_Summary_Formatted_Original](Resources/Overall_School_Type_Summary_Formatted_Original.PNG)
+  ![Overall_School_Type_Summary_Formatted_Original](Resources/Overall_School_Type_Summary_Formatted_Original.PNG)
     
-- Overall School Type summary Formatted Updated
+- Overall School Type Summary Original:
       
- ![Overall_School_Type_Summary_Formatted_Updated](Resources/Overall_School_Type_Summary_Formatted_Updated.PNG)
+  ![Overall_School_Type_Summary_NotFormatted_Original](Resources/Overall_School_Type_Summary_NotFormatted_Original.PNG)
     
-- Overall School Type summary Not Formatted Original
+- Overall School Type Summary Updated:
       
- ![Overall_School_Type_Summary_NotFormatted_Original](Resources/Overall_School_Type_Summary_NotFormatted_Original.PNG)
-    
-- Overall School Type summary Not Formatted Updated 
-      
- ![Overall_School_Type_Summary_NotFormatted_Updated](Resources/Overall_School_Type_Summary_NotFormatted_Updated.PNG) 
+  ![Overall_School_Type_Summary_NotFormatted_Updated](Resources/Overall_School_Type_Summary_NotFormatted_Updated.PNG) 
 
 ## School District Analysis - Summary: 
 - Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).
