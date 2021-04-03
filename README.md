@@ -76,7 +76,7 @@ The following screen shots show the top five performing schools in the district.
   
 - THS Original Reading:
 
-  ![Reading_By_Grade_Original](Resources/Reading_By_Grade_Original.PNG.PNG)
+  ![Reading_By_Grade_Original](Resources/Reading_By_Grade_Original.PNG)
   
 - THS Updated Reading:
    
