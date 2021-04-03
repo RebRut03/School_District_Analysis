@@ -65,6 +65,7 @@ The following screen shots show the top five performing schools in the district.
   ![Top_Five_Updated](Resources/Top_Five_Updated.PNG)
   
 ### **Affect on Math and Reading Scores by Grade:**
+The following screen shots illustrate that the original Math and Reading scores, and the updated Math and Reading scores per grade level.  As you can see the THS 9th graders have been replaced with Nan, and the remaining THS grade levels do not change.
 
 - THS Original Math:
 
@@ -83,6 +84,8 @@ The following screen shots show the top five performing schools in the district.
   ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
   
 ### **Affect on Scores by School Spending:**
+THS falls into the $630 to $644 spending range per students.
+
 - THS Spending Original
 
   ![THS_School_Spending_Range_Original](Resources/THS_School_Spending_Range_Original.PNG)
