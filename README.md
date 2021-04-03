@@ -84,29 +84,22 @@ The following screen shots illustrate that the original Math and Reading scores,
   ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
   
 ### **Affect on Scores by School Spending:**
-THS falls into the $630 to $644 spending range per students.
+THS falls into the $630 to $644 spending range per students.  The screen shot of the Overall Spending Summary below appeared to be the same once formatted so there was no significant change when utilizing only the THS tenth to twelfth grade scores.  
 
-- THS Spending Original
+- THS Spending Original:
 
   ![THS_School_Spending_Range_Original](Resources/THS_School_Spending_Range_Original.PNG)
       
-- THS Spending Updated
+- THS Spending Updated:
       
   ![THS_School_Spending_Range_Updated](Resources/THS_School_Spending_Range_Updated.PNG)
   
-- Overall School Spending Formatted Same
+- Overall School Spending:
   
   ![Overall_School_Spending_Summary_Formatted_Same](Resources/Overall_School_Spending_Summary_Formatted_Same.PNG)
   
-- Overal Spending Summary Original
-      
-  ![Overall_School_Spending_Summary_NoFormatting](Resources/Overall_School_Spending_Summary_NoFormatting_Original.PNG)
-  
-- Overall Spending Summary Updated
-      
-  ![Overall_School_Spending_Summary_NoFormatting_Updated](Resources/Overall_School_Spending_Summary_NoFormatting_Updated.PNG)
-      
-  - Scores by school size
+     
+### **Affect on Scores by School Size:**
     - Overall School Size Formatted Same
       ![Overall_School_Size_Summary_Formatted_Same](Resources/Overall_School_Size_Summary_Formatted_Same.PNG)
     - Overall School Size summary Not formated original
