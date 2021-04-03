@@ -84,7 +84,7 @@ The following screen shots illustrate that the original Math and Reading scores,
   ![Reading_By_Grade_Updated](Resources/Reading_By_Grade_Updated.PNG)
   
 ### **Affect on Scores by School Spending:**
-THS falls into the $630 to $644 spending range per students.  The screen shot of the Overall Spending Summary below appeared to be the same once formatted so there was no significant change when utilizing only the THS tenth to twelfth grade scores.  
+THS falls into the $630 to $644 spending range per students.  The overall passing percentage dropped slightly when the 9th graders were removed, but it doesn't appear significant enough to change the Overall School Spending Summary once it's been formatted; see screen shots below.  
 
 - THS Spending Original:
 
@@ -100,12 +100,20 @@ THS falls into the $630 to $644 spending range per students.  The screen shot of
   
      
 ### **Affect on Scores by School Size:**
-    - Overall School Size Formatted Same
-      ![Overall_School_Size_Summary_Formatted_Same](Resources/Overall_School_Size_Summary_Formatted_Same.PNG)
-    - Overall School Size summary Not formated original
-      ![Overall_School_Size_Summary_NotFormatted_Original](Resources/Overall_School_Size_Summary_NotFormatted_Original.PNG)
-    - Overall School Size summary Not Formatted Updated 
-      ![Overall_School_Size_Summary_NotFormatted_Updated](Resources/Overall_School_Size_Summary_NotFormatted_Updated.PNG)
+THS falls into the medium sized category range (1,000 to 2,000 students) with 1,635 total students.
+
+- Overall School Size Formatted Same
+      
+  ![Overall_School_Size_Summary_Formatted_Same](Resources/Overall_School_Size_Summary_Formatted_Same.PNG)
+    
+- Overall School Size summary Not formated original
+      
+ ![Overall_School_Size_Summary_NotFormatted_Original](Resources/Overall_School_Size_Summary_NotFormatted_Original.PNG)
+    
+- Overall School Size summary Not Formatted Updated 
+      
+ ![Overall_School_Size_Summary_NotFormatted_Updated](Resources/Overall_School_Size_Summary_NotFormatted_Updated.PNG)
+ 
   - Scores by school type
     - Overall School Type Formatted Original
       ![Overall_School_Type_Summary_Formatted_Original](Resources/Overall_School_Type_Summary_Formatted_Original.PNG)
